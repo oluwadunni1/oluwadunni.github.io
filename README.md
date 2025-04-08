@@ -4,15 +4,15 @@
 
 
 ### Education 
-- BTech., Quantity Surveying | Federal University Of Technology Akure (_November 2024_)
-- Google Data Analytics | Coursera (_April 2025_)
+- BTech., Quantity Surveying|Federal University Of Technology Akure (_November 2024_)
+- Google Data Analytics     |Coursera (_April 2025_)
 
 ### Work Experience
 **Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
 - Supported business performance tracking using Excel and SQL
 - Cleaned and analyzed data to uncover trends in logistics and supply chain
 
-**Financial Secretary – IJBW Cooperative Society(_January 2024 – January 2025_)**  
+**Financial Secretary – IJBW Cooperative Society(_Jan 2024 – Jan 2025_)**  
 - Developed a full-cycle database management system for member savings and loan records, improving accuracy and enabling real-time tracking of finances 
 - Automated dividend calculations and presented end-of-year reports reducing manual workload by over 80% and ensuring transparency for all members
 
