@@ -1,22 +1,20 @@
 # Data Analyst 
 
-Welcome to my data analytics portfolio!. My projects demonstrate my data analysis, Tableau visualization, and SQL skills, along with my developing experience in predictive modeling using R and linear regression techniques.
+#### Technical Skills: R, Tableau, Excel, Tableau 
+
 
 ### Education 
-- Quantity Surveying, Btech
-- Google Data Analytics Cert
+- BTech., Quantity Surveying | Federal University Of Technology Akure (_November 2024_)
+- Google Data Analytics | Coursera (_April 2025_)
 
 ### Work Experience
-**Data Analyst – Asvini Global LTD**  
-  *[June 2024 – Present]*  
+**Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
 - Supported business performance tracking using Excel and SQL
 - Cleaned and analyzed data to uncover trends in logistics and supply chain
 
-**Financial Secretary – IJBW Cooperative Society**  
-*[January 2024 – January 2025]*  
-- Developed a full-cycle database management system for member savings and loan records  
-- Automated dividend calculations and built interactive end-of-year reporting tools  
-- Led transition from manual to digital operations using Shiny and MySQL
+**Financial Secretary – IJBW Cooperative Society(_January 2024 – January 2025_)**  
+- Developed a full-cycle database management system for member savings and loan records, improving accuracy and enabling real-time tracking of finances 
+- Automated dividend calculations and presented end-of-year reports reducing manual workload by over 80% and ensuring transparency for all members
 
 ### Projects
 #### 1. **Cooperative Society Database Management System**
