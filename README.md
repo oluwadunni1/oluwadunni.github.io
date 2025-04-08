@@ -4,8 +4,8 @@
 
 
 ### Education 
-- BTech., Quantity Surveying| Federal University Of Technology Akure (_November 2024_)
-- Google Data Analytics| Coursera (_April 2025_)
+- BTech Quantity Surveying|Federal University Of Technology Akure (_November 2024_)
+- Google Data Analytics|Coursera (_April 2025_)
 
 ### Work Experience
 **Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
