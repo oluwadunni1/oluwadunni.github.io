@@ -1,11 +1,11 @@
 # Data Analyst 
 
-#### Technical Skills: R, SQL, Excel, Tableau 
+#### Technical Skills: R, SQL, Tableau, Excel 
 
 
 ### Education 
-- BTech., Quantity Surveying|Federal University Of Technology Akure (_November 2024_)
-- Google Data Analytics     |Coursera (_April 2025_)
+- BTech., Quantity Surveying| Federal University Of Technology Akure (_November 2024_)
+- Google Data Analytics| Coursera (_April 2025_)
 
 ### Work Experience
 **Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
@@ -51,3 +51,9 @@
 - Practiced diagnostics and model evaluation using ISLR datasets
 - [View Project Folder](./4_Linear_Regression_Exercises)
 
+
+### Contact
+
+- **Email:**  Dunnioluajayi@gmail.com 
+- **LinkedIn:** [Dunni Olu-Ajayi](https://www.linkedin.com/in/dunni-olu-ajayi-598a6b2a3/)  
+- **GitHub:** [Oluwadunni1](https://github.com/oluwadunni1)
