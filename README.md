@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Technical Skills: R, Tableau, Excel, Tableau 
+#### Technical Skills: R, SQL, Excel, Tableau 
 
 
 ### Education 
@@ -41,7 +41,7 @@
 
 #### 4. **Interactive Dashboard**
 - Tools: Tableau
-- Recreated a public dashboard with custom filters, KPIs, and trend visuals
+- Created a dashboard with custom filters, KPIs, and trend visuals
 - Showcased storytelling with data and dashboard design skills
 - [View Dashboard](https://public.tableau.com/app/profile/dunni.olu.ajayi/viz/autoRecreate/Dashboard1)
 
