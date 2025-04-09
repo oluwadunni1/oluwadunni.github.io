@@ -1,6 +1,6 @@
 # Data Analyst 
 
-#### Technical Skills: R, SQL, Tableau, Excel 
+#### Technical Skills: R · SQL · Tableau · Excel 
 
 
 ### Education 
@@ -25,7 +25,7 @@
 - [View Project Folder](https://github.com/oluwadunni1/coop-database)
 
 #### 2. **FBI Crime Analysis**
-- Tools: R · Tableau . Quarto
+- Tools: R · Tableau · Quarto
 - Cleaned and analyzed FBI NIBRS data to explore adoption rates across states
 - Created visualizations to identify key trends and regional differences
 - Produced clear, data-driven insights on NIBRS adoption trends
@@ -49,7 +49,7 @@
 - Tools: R · Quarto
 - Applied regression modeling to explore relationships between variables
 - Practiced diagnostics and model evaluation using ISLR datasets
-- [View Project Folder](./4_Linear_Regression_Exercises)
+- [View Report](https://oluwadunni1.github.io/ISLR-Exercises/)
 
 
 ### Contact
