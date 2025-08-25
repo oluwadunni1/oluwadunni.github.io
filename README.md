@@ -1,11 +1,13 @@
 # Data Analyst 
 
-#### Technical Skills: R · SQL · Tableau · Excel 
+#### Technical Skills: Python · SQL · Tableau · R 
 
 
 ### Education 
 - BTech Quantity Surveying|Federal University Of Technology Akure (_November 2024_)
 - Google Data Analytics|Coursera (_April 2025_)
+- Advanced Google Data Analytics | Coursera (_June 2025_)
+- Machine Learning Specialization| Deeplearning.AI
 
 ### Work Experience
 **Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
@@ -32,7 +34,7 @@
 - [View Project Folder](https://github.com/oluwadunni1/fbiCrimeAnalysis)
 
 #### 3. **Inventory Management Analysis**
-- Tool: MySQL
+- Tool: MySQL · Python · Tableau
 - Analyzed Mint Classics' inventory data to support warehouse consolidation decision
 - Evaluated product performance metrics and storage utilization to identify optimal facility closure
 - Delivered actionable recommendations for inventory redistribution and optimization
