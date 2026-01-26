@@ -1,58 +1,92 @@
-# Data Scientist 
+# Data Analyst 
 
-#### Technical Skills: Python · SQL · Tableau · R 
+### Profile Summary
+Data Analyst with a background in Quantity Surveying and hands-on experience in financial record management. Skilled in transforming raw, messy data into structured insights for decision-making. Proven ability to build end-to-end data solutions from data sourcing and cleaning to dashboarding and stakeholder reporting, and seeking to apply my analytical skills to real-world projects.
+
+#### Technical Skills:
+- Analysis & Modeling: Python (Pandas, NumPy, Scikit-learn), SQL, R, Excel
+
+- Visualization: Tableau, R (Shiny), Quarto
+
+- Documentation: Technical Writing, Markdown
 
 
-### Education 
-- BTech Quantity Surveying|Federal University Of Technology Akure (_November 2024_)
-- Google Data Analytics|Coursera (_April 2025_)
-- Advanced Google Data Analytics | Coursera (_June 2025_)
-- Machine Learning Specialization| Deeplearning.AI
+### Professional Experience
+**Data Analyst Intern | Asvini Global LTD (Remote) | Jan 2025 – April 2025**
 
-### Work Experience
-**Data Analyst – Asvini Global LTD(_June 2024 – Present_)** 
-- Supported business performance tracking using Excel and SQL
-- Cleaned and analyzed data to uncover trends in logistics and supply chain
+- Collaborated with the logistics team to clean and structure supply chain datasets.
 
-**Financial Secretary – IJBW Cooperative Society(_Jan 2024 – Jan 2025_)**  
-- Developed a full-cycle database management system for member savings and loan records, improving accuracy and enabling real-time tracking of finances 
-- Automated dividend calculations and presented end-of-year reports reducing manual workload by over 80% and ensuring transparency for all members
+- Conducted exploratory data analysis (EDA) using SQL and Excel to identify bottlenecks in delivery times.
 
-### Projects
+- Translated data findings into weekly written summaries, supporting senior management in operational decision-making.
+
+**Financial Secretary & Database Lead | IJBW Cooperative Society | Jan 2024 – Jan 2025**
+
+- This role required managing real-world financial constraints and "messy" manual records.
+
+- Engineered a custom database management system to replace manual ledgers, digitizing over 30+ member records.
+
+- Automated dividend calculations and loan tracking, reducing reporting errors to near zero.
+
+- Authored and presented the end-of-year financial report to non-technical stakeholders, explaining complex fiscal trends clearly.
+  
+###  Selected Projects
+
 #### 1. **Cooperative Society Database Management System**
-- Tools: MySQL · R (Shiny) · Quarto
-- Created a custom database system for a cooperative society
-- Streamlined financial operations with automated dividend calculations, transaction tracking, and loan management
-- Prepared comprehensive year-end financial reports with actionable insights
-- [View Project Folder](https://github.com/oluwadunni1/coop-database)
+- The Challenge: A cooperative society was managing financial operations through manual ledgers, leading to errors, inefficiencies, and difficulty tracking member transactions.
+- My Solution: Designed and implemented a comprehensive database system that centralized all financial operations, including automated dividend calculations, transaction tracking, and loan management.
+- Impact: Eliminated manual reporting errors, streamlined year-end financial reporting, and provided leadership with real-time insights into organizational finances.
 
-#### 2. **FBI Crime Analysis**
-- Tools: R · Tableau · Quarto
-- Cleaned and analyzed FBI NIBRS data to explore adoption rates across states
-- Created visualizations to identify key trends and regional differences
-- Produced clear, data-driven insights on NIBRS adoption trends
-- [View Project Folder](https://github.com/oluwadunni1/fbiCrimeAnalysis)
-
-#### 3. **Inventory Management Analysis**
-- Tool: MySQL · Python · Tableau
-- Analyzed Mint Classics' inventory data to support warehouse consolidation decision
-- Evaluated product performance metrics and storage utilization to identify optimal facility closure
-- Delivered actionable recommendations for inventory redistribution and optimization
-- [View Project Folder](https://github.com/oluwadunni1/Mint-classics-inventory-analysis)
+[View Project Folder](https://github.com/oluwadunni1/coop-database)
 
 
-#### 4. **Interactive Dashboard**
-- Tools: Tableau
-- Created a dashboard with custom filters, KPIs, and trend visuals
-- Showcased storytelling with data and dashboard design skills
-- [View Dashboard](https://public.tableau.com/app/profile/dunni.olu.ajayi/viz/autoRecreate/Dashboard1)
+#### 2. **Inventory Management Analysis**
+- The Business Problem: A retailer needed to determine if they could close one of their storage facilities to save costs without impacting supply.
 
-#### 5. **Linear Regression Exercise**
-- Tools: R · Quarto
-- Applied regression modeling to explore relationships between variables
-- Practiced diagnostics and model evaluation using ISLR datasets
-- [View Report](https://oluwadunni1.github.io/ISLR-Exercises/)
+- My Approach:
+  - Data Extraction (SQL): Queried the MySQL database to audit warehouse capacity, delivery performance, and revenue contribution by product line.
+  - Statistical Analysis (Python): Performed statistical testing on inventory data to validate assumptions regarding stock levels and reorganization potential.
+  - Visualization (Tableau): Developed an Executive Dashboard to present findings on product movement and warehouse utilization to stakeholders.
 
+- The Outcome: Delivered a validated recommendation for facility closure with specific insights on inventory redistribution and reduction.
+
+- Tools: MySQL, Python (Stats/Pandas), Tableau
+
+[View Project Folder](https://github.com/oluwadunni1/Mint-classics-inventory-analysis)
+
+
+#### 3. Bank Marketing Campaign Analysis and Prediction 
+- The Challenge: Analyze bank marketing campaign data to predict customer response and identify key factors influencing campaign success.
+
+- My Approach:
+  - Conducted comprehensive exploratory data analysis to understand relationships between customer demographics, behavior, and campaign outcomes
+  - Preprocessed and engineered features to improve model performance
+  - Built and evaluated multiple classification models (Logistic Regression, XGBoost, Neural Networks) to predict customer conversion
+
+- Tools: Python, Jupyter Notebook, Scikit-learn
+
+[View Project Folder](https://https://https://github.com/oluwadunni1/Bank-Marketing-Campaign-Analysis-and-Prediction)
+
+#### 4. FBI Crime Data Analysis
+Objective: Analyze FBI NIBRS (National Incident-Based Reporting System) data to explore adoption rates and identify regional trends.
+
+Key Contributions:
+- Cleaned and structured large-scale crime datasets for analysis
+- Created visualizations revealing adoption patterns and regional differences
+- Delivered data-driven insights on NIBRS implementation across states
+- Tools: R, ggplot2, Tableau
+
+[View Project Folder](https://github.com/oluwadunni1/fbiCrimeAnalysis)
+
+#### 5. Interactive Sales Dashboard
+Objective: Design an executive dashboard that tells a story through data, showcasing key performance indicators and trends.
+
+Features:
+- Custom filters for dynamic data exploration
+- KPI tracking with visual indicators
+- Trend analysis with actionable insights
+  
+[View Dashboard](https://public.tableau.com/app/profile/dunni.olu.ajayi/viz/autoRecreate/Dashboard1)
 
 ### Contact
 
