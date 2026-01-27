@@ -21,7 +21,7 @@ Data Analyst with a background in Quantity Surveying and hands-on experience in 
 - Translated data findings into weekly written summaries, supporting senior management in operational decision-making.
 
 
-**Financial Secretary & Database Lead | IJBW Cooperative Society | Jan 2024 – Jan 2025**
+**Financial Secretary | IJBW Coorperative Society | Jan 2024 – Jan 2025**
 
 - This role required managing real-world financial constraints and "messy" manual records.
 
