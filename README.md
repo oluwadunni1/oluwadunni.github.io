@@ -32,28 +32,28 @@
 - **My Solution:** Engineered a robust data pipeline using Python to clean and analyze unstructured bid tabulation data.
 - **Strategic Impact:** Modeled unit price distributions and identified outlier pricing patterns, creating a framework to forecast project costs and optimize competitive bidding strategies.
 - **Tools:** Python (Pandas, NumPy), Statistical Analysis, Matplotlib.
-- [**View Notebook**](https://github.com/oluwadunni1/bids-tabulation-analysis/blob/main/bid_tabulations.ipynb)
+- [View Notebook](https://github.com/oluwadunni1/bids-tabulation-analysis/blob/main/bid_tabulations.ipynb)
 
 #### 2. Bank Marketing Campaign Optimization
 - **The Business Problem:** A financial institution needed to improve the conversion rate of their direct marketing campaigns while reducing operational costs.
 - **My Solution:** Conducted deep EDA to identify key customer demographics and built predictive classification models (Logistic Regression, XGBoost) to score lead probability.
 - **Strategic Impact:** Delivered a model that identifies high-intent customers, enabling the bank to target resources effectively and increase ROI on marketing spend.
 - **Tools:** Python, Scikit-learn, XGBoost.
-- [**View Project Folder**](https://github.com/oluwadunni1/Bank-Marketing-Campaign-Analysis-and-Prediction)
+- [View Project Folder](https://github.com/oluwadunni1/Bank-Marketing-Campaign-Analysis-and-Prediction)
 
 #### 3. Inventory Optimization & Facility Rationalization
 - **The Business Problem:** A retailer needed to determine if closing a storage facility to save costs would negatively impact supply chain resilience.
 - **My Solution:** Queried MySQL databases to audit warehouse capacity and performed statistical testing on inventory turnover rates.
 - **Strategic Impact:** Validated a recommendation for facility closure with a data-backed plan for inventory redistribution, projecting significant operational savings.
 - **Tools:** SQL, Python, Tableau.
-- [**View Project Folder**](https://github.com/oluwadunni1/Mint-classics-inventory-analysis)
+- [View Project Folder](https://github.com/oluwadunni1/Mint-classics-inventory-analysis)
 
 #### 4. Cooperative Society Financial System (End-to-End)
 - **The Business Problem:** Managing financial records for a cooperative society via manual ledgers caused reporting errors and a lack of visibility.
 - **My Solution:** Designed and coded a custom database system to digitize 30+ member records, automating dividend calculations and loan tracking.
 - **Strategic Impact:** Reduced reporting errors to near zero and provided leadership with real-time financial visibility.
 - **Tools:** Custom Database Design, Excel Automation.
-- [**View Project Folder**](https://github.com/oluwadunni1/coop-database)
+- [View Project Folder](https://github.com/oluwadunni1/coop-database)
 
 ---
 
