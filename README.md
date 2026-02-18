@@ -1,7 +1,8 @@
-# Data Analyst 
+# Strategy Analyst & Data Professional
 
-### Profile Summary
-Data Analyst with a background in Quantity Surveying and hands-on experience in financial record management. Skilled in transforming raw, messy data into structured insights for decision-making. Proven ability to build end-to-end data solutions from data sourcing and cleaning to dashboarding and stakeholder reporting, and seeking to apply my analytical skills to real-world projects.
+### Profile
+Bridging the gap between Engineering Valuation and Data Science.
+Data Professional with a background in Quantity Surveying (Cost Engineering). I combine financial valuation principles with advanced analytics (Python, SQL) to solve complex business problems. Specialized in transforming massive, unstructured datasets into strategic insights for cost optimization, risk assessment, and operational efficiency.
 
 #### Technical Skills:
 - Analysis & Modeling: Python (Pandas, NumPy, Scikit-learn), SQL, R, Excel
@@ -12,82 +13,67 @@ Data Analyst with a background in Quantity Surveying and hands-on experience in 
 
 
 ### Professional Experience
-**Data Analyst Intern | Asvini Global LTD (Remote) | Jan 2025 – April 2025**
+**Applied Scientist (Research) | Polytechnic Ibadan (Apr 2025 – Present)**
 
-- Collaborated with the logistics team to clean and structure supply chain datasets.
+- Leading research on Fairness in AI, developing Explainable AI (XAI) frameworks to detect and mitigate bias in predictive models.
 
-- Conducted exploratory data analysis (EDA) using SQL and Excel to identify bottlenecks in delivery times.
+- Managing MLOps pipelines (Docker/Azure) to deploy student admission prediction models.
 
-- Translated data findings into weekly written summaries, supporting senior management in operational decision-making.
+**Data Analyst | Asvini Global LTD (Jan 2025 – Apr 2025)**
 
+- Restructured supply chain datasets using SQL to identify delivery bottlenecks.
 
-**Financial Secretary | IJBW Coorperative Society | Jan 2024 – Jan 2025**
+- Built automated weekly dashboards to support senior management in operational decision-making.
 
-- This role required managing real-world financial constraints and "messy" manual records.
+**Financial Secretary | IJBW Cooperative Society (Jan 2024 – Jan 2025)**
 
-- Engineered a custom database management system to replace manual ledgers, digitizing over 30+ member records.
-
-- Automated dividend calculations and loan tracking, reducing reporting errors to near zero.
-
-- Authored and presented the end-of-year financial report to non-technical stakeholders, explaining complex fiscal trends clearly.
+Managed financial operations and engineered a digital record-keeping system that replaced manual ledgers, improving audit accuracy.
   
 ###  Selected Projects
 
-#### 1. **Cooperative Society Database Management System**
-- The Challenge: A cooperative society was managing financial operations through manual ledgers, leading to errors, inefficiencies, and difficulty tracking member transactions.
-- My Solution: Designed and implemented a comprehensive database system that centralized all financial operations, including automated dividend calculations, transaction tracking, and loan management.
-- Impact: Eliminated manual reporting errors, streamlined year-end financial reporting, and provided leadership with real-time insights into organizational finances.
+1. **Infrastructure Market Strategy Analysis (TxDOT Dataset)**
+- The Business Problem: Uncover competitive bidding dynamics and vendor pricing strategies within a massive dataset of over 960,000 infrastructure bid records from the Texas Department of Transportation.
 
-[View Project Folder](https://github.com/oluwadunni1/coop-database)
+- My Solution: Engineered a robust data pipeline using Python to clean and analyze unstructured bid tabulation data.
 
+- Strategic Impact: Modeled unit price distributions and identified outlier pricing patterns, creating a framework to forecast project costs and optimize competitive bidding strategies.
 
-#### 2. **Inventory Management Analysis**
-- The Business Problem: A retailer needed to determine if they could close one of their storage facilities to save costs without impacting supply.
+- Tools: Python (Pandas, NumPy), Statistical Analysis, Matplotlib.
 
-- My Approach:
-  - Data Extraction (SQL): Queried the MySQL database to audit warehouse capacity, delivery performance, and revenue contribution by product line.
-  - Statistical Analysis (Python): Performed statistical testing on inventory data to validate assumptions regarding stock levels and reorganization potential.
-  - Visualization (Tableau): Developed an Executive Dashboard to present findings on product movement and warehouse utilization to stakeholders.
+[View Notebook](https://github.com/oluwadunni1/bids-tabulation-analysis/blob/main/bid_tabulations.ipynb)
 
-- The Outcome: Delivered a validated recommendation for facility closure with specific insights on inventory redistribution and reduction.
+2. **Bank Marketing Campaign Optimization**
+- The Business Problem: A financial institution needed to improve the conversion rate of their direct marketing campaigns while reducing operational costs.
 
-- Tools: MySQL, Python (Stats/Pandas), Tableau
+- My Solution: Conducted deep EDA to identify key customer demographics and built predictive classification models (Logistic Regression, XGBoost) to score lead probability.
+
+- Strategic Impact: Delivered a model that identifies high-intent customers, enabling the bank to target resources effectively and increase ROI on marketing spend.
+
+- Tools: Python, Scikit-learn, XGBoost.
+
+[View Project Folder](https://github.com/oluwadunni1/Bank-Marketing-Campaign-Analysis-and-Prediction)
+
+3. **Inventory Optimization & Facility Rationalization**
+- The Business Problem: A retailer needed to determine if closing a storage facility to save costs would negatively impact supply chain resilience.
+
+- My Solution: Queried MySQL databases to audit warehouse capacity and performed statistical testing on inventory turnover rates.
+
+- Strategic Impact: Validated a recommendation for facility closure with a data-backed plan for inventory redistribution, projecting significant operational savings.
+
+- Tools: SQL, Python, Tableau.
 
 [View Project Folder](https://github.com/oluwadunni1/Mint-classics-inventory-analysis)
 
+4. **Cooperative Society Financial System (End-to-End)**
+- The Business Problem: Managing financial records for a cooperative society via manual ledgers caused reporting errors and a lack of visibility.
 
-#### 3. Bank Marketing Campaign Analysis and Prediction 
-- The Challenge: Analyze bank marketing campaign data to predict customer response and identify key factors influencing campaign success.
+- My Solution: Designed and coded a custom database system to digitize 30+ member records, automating dividend calculations and loan tracking.
 
-- My Approach:
-  - Conducted comprehensive exploratory data analysis to understand relationships between customer demographics, behavior, and campaign outcomes
-  - Preprocessed and engineered features to improve model performance
-  - Built and evaluated multiple classification models (Logistic Regression, XGBoost, Neural Networks) to predict customer conversion
+- Strategic Impact: Reduced reporting errors to near zero and provided leadership with real-time financial visibility.
 
-- Tools: Python, Jupyter Notebook, Scikit-learn
-
-[View Project Folder](https://https://https://github.com/oluwadunni1/Bank-Marketing-Campaign-Analysis-and-Prediction)
-
-#### 4. FBI Crime Data Analysis
-Objective: Analyze FBI NIBRS (National Incident-Based Reporting System) data to explore adoption rates and identify regional trends.
-
-Key Contributions:
-- Cleaned and structured large-scale crime datasets for analysis
-- Created visualizations revealing adoption patterns and regional differences
-- Delivered data-driven insights on NIBRS implementation across states
-- Tools: R, ggplot2, Tableau
-
-[View Project Folder](https://github.com/oluwadunni1/fbiCrimeAnalysis)
-
-#### 5. Interactive Sales Dashboard
-Objective: Design an executive dashboard that tells a story through data, showcasing key performance indicators and trends.
-
-Features:
-- Custom filters for dynamic data exploration
-- KPI tracking with visual indicators
-- Trend analysis with actionable insights
+- Tools: Custom Database Design, Excel Automation.
   
-[View Dashboard](https://public.tableau.com/app/profile/dunni.olu.ajayi/viz/autoRecreate/Dashboard1)
+[View Project Folder](https://github.com/oluwadunni1/coop-database)
 
 ### Contact
 
